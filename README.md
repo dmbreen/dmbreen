@@ -2,4 +2,4 @@
 
 My name is Declan Breen.
 
-- 🌱 I’m currently learning at Northeastern University.
+- 🌱 I’m currently studying at Northeastern University.
